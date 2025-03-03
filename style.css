@@ -1,0 +1,155 @@
+
+
+
+
+
+
+
+
+
+
+
+.navbar{
+    background: url(header-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    padding: 2rem 5rem;
+    
+}
+.header{
+    position: absolute;
+    width: 100%;
+    top: 2rem;
+    left: 0;
+    z-index: 2;
+}
+.navbar-nav .nav-link{
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 200;
+    padding: 0.5rem 2rem;
+    margin: 0 0.2rem;
+    font-family: sans-serif;
+}
+.navbar-nav .nav-link:hover{
+    color: chartreuse;
+}
+.container i{
+    color: #fff;
+}
+.banner-section{
+    background: url(banner-slide/Banner-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 90vh;
+}
+.banner-section .carousel-item{
+    padding: 3rem 0;
+    height: 90vh    ;
+}
+.banner-content h1{
+    color: rgb(16, 26, 26);
+    font-weight: 900;
+    font-family: sans-serif;
+    
+}
+
+
+.banner-content p{
+    color: rgb(16, 26, 26);
+    font-family: sans-serif;
+}
+.btn{
+    padding: 9px 40px;
+    background-color: rgb(59, 118, 0);
+    color: #fff;
+    border-radius: 30px;
+    text-align: center;
+    border: #fff solid 3px;
+}
+.banner-section .carousel-caption{
+    top: 30%;
+    bottom: 0;
+    left: 3%;
+    right: 0;
+    text-align: left;
+    width: 100%;
+}
+.banner-section .carousel-caption p{
+    max-width: 40rem;
+    margin-bottom: 2rem;
+}
+.card-body img{
+    width: 70px;
+}
+.aa{
+    
+    margin-bottom: 70px;
+}
+.about-page{
+    background: url(about/about-banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 90vh;
+}
+.text{
+    max-width: 28rem;
+    /* margin: 1rem; */
+    padding-top: 80px;
+    
+}
+.text h1{
+    margin-bottom: 30px;
+    
+}
+.text h5{
+    margin-bottom: 30px;
+}
+.text p{
+    margin-bottom: 30px;
+}
+.cardd img{
+width: 180px;
+
+}
+.cardd{
+    /* background: url(testimonial/testimonial-bg.png); */
+
+}
+.new-part{
+    background-color: rgba(213, 254, 205, 0.893);
+    height: 100vh;
+}
+.name{
+    background: url(testimonial/testimonial-bg.png);
+    
+}
+.new-p{
+    justify-content: center;
+    align-items: center;
+    
+}
+.name img{
+width: 300px;
+height: 250px;
+}
+.card-text{
+}
+.space{
+    justify-content: space-around;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.carde{
+    margin: 20px;
+}
+.footer{
+    background: url(footer-bg/footer_bg.png);
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
