@@ -1,11 +1,10 @@
 
 
-
-
 @media only screen and (max-width:1000px){
-.navbar{
-    background-size: cover;
+    .navbar{
+        background-size: cover;
+        
+    }
     
-}
+    }
 
-}
